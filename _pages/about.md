@@ -13,22 +13,23 @@ Hui (Amy) Rao is a PhD student at the School of Computing and Information System
 
 Research Experiences
 ======
--**Fake News Detection through Theory Based Feature Selection**
+**Fake News Detection through Theory Based Feature Selection**
 
-**Activities:**  Explored advanced natural language processing (NLP) techniques to enhance fake news detection using tweet semantic information, developed innovative methods to analyse and interpret semantic cues in tweets, and conducted evaluations to assess the effectiveness of methods in improving the accuracy. Elaboration Likelihood Model (ELM) of persuasion based feature development for the detection of fake news. 
+- **Activities:**  Explored advanced natural language processing (NLP) techniques to enhance fake news detection using tweet semantic information, developed innovative methods to analyse and interpret semantic cues in tweets, and conducted evaluations to assess the effectiveness of methods in improving the accuracy. Elaboration Likelihood Model (ELM) of persuasion based feature development for the detection of fake news. 
 
-**Outcomes:** Completion of Master’s thesis (20,000 words), ***published in the Pacific-Asia Conference on Information Systems (PACIS 2025) and the International Conference on Information Systems TREO (ICIS 2024 TREO). Preparing for a submission at the Journal of Strategic Information Systems (JSIS) by 2026.*** Presented at PACIS 2025, ICIS 2024 and the UQ BIS End of Year Conference on 19 November 2024.
+- **Outcomes:** Completion of Master’s thesis (20,000 words), ***published in the Pacific-Asia Conference on Information Systems (PACIS 2025) and the International Conference on Information Systems TREO (ICIS 2024 TREO). Preparing for a submission at the Journal of Strategic Information Systems (JSIS) by 2026.*** Presented at PACIS 2025, ICIS 2024 and the UQ BIS End of Year Conference on 19 November 2024.
 
 <div style="height:0.5em"></div>
 
--**Exploring the Impact of Online Reviews on Book Sales Using NLP Techniques**
+**Exploring the Impact of Online Reviews on Book Sales Using NLP Techniques**
 
-**Activities:** Dedicated to studying text mining and machine learning techniques, focusing on aspect-based sentiment analysis (ABSA) and emotion analysis. Conducted research on text mining and topic modelling to extract insights from online reviews and identify key features.
+- **Activities:** Dedicated to studying text mining and machine learning techniques, focusing on aspect-based sentiment analysis (ABSA) and emotion analysis. Conducted research on text mining and topic modelling to extract insights from online reviews and identify key features.
 
-**Outcomes:** Accepted by ANZAM-OSCSM Symposium, and ***further research is being prepared for submission to the Journal of Computers in Human Behavior by 2026.***
+- **Outcomes:** Accepted by ANZAM-OSCSM Symposium, and ***further research is being prepared for submission to the Journal of Computers in Human Behavior by 2026.***
 
+<div style="height:0.5em"></div>
 
-Getting started
+Honors and Awards
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
