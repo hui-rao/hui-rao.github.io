@@ -13,14 +13,18 @@ Hui (Amy) Rao is a PhD student at the School of Computing and Information System
 
 Research Experiences
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **Fake News Detection through Theory Based Feature Selection**
+<div style="height:0.5em"></div>
+**Activities:**  Explored advanced natural language processing (NLP) techniques to enhance fake news detection using tweet semantic information, developed innovative methods to analyse and interpret semantic cues in tweets, and conducted evaluations to assess the effectiveness of methods in improving the accuracy. Elaboration Likelihood Model (ELM) of persuasion based feature development for the detection of fake news. 
+<div style="height:0.5em"></div>
+**Outcomes:** Completion of Master’s thesis (20,000 words), ***published in the Pacific-Asia Conference on Information Systems (PACIS 2025) and the International Conference on Information Systems TREO (ICIS 2024 TREO). Preparing for a submission at the Journal of Strategic Information Systems (JSIS) by 2026.*** Presented at PACIS 2025, ICIS 2024 and the UQ BIS End of Year Conference on 19 November 2024.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **Exploring the Impact of Online Reviews on Book Sales Using NLP Techniques**
+<div style="height:0.5em"></div>
+**Activities:** Dedicated to studying text mining and machine learning techniques, focusing on aspect-based sentiment analysis (ABSA) and emotion analysis. Conducted research on text mining and topic modelling to extract insights from online reviews and identify key features.
+<div style="height:0.5em"></div>
+**Outcomes:** Accepted by ANZAM-OSCSM Symposium, and ***further research is being prepared for submission to the Journal of Computers in Human Behavior by 2026.***
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
 Getting started
 ======
