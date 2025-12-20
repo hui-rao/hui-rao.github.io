@@ -39,4 +39,5 @@ Honours and Awards
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about Hui (Amy) Rao can be found in [About Me](https://academicpages.github.io/markdown/), the [Photos](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question via email](mailto:hui.rao.1@student.unimelb.edu.au) or ***[LinkedIn]*** (https://www.linkedin.com/in/hui-rao-9a30642b6/). 
+
