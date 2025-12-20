@@ -19,7 +19,7 @@ Research Experiences
 
 - **Activities:**  As a PhD research stream, developing a four-study program to investigate how “dark patterns” may emerge in LLM-based AI companions and how they shape user outcomes, with a particular focus on user perceived intimacy. Study 1 conducts a cross-disciplinary synthesis of AI companion research and produce a conceptual paper. Subsequent studies employ experimental methods alongside qualitative and computational approaches to uncover dark-pattern mechanisms in AI companions. 
 
-- **Outcomes:** Preparing for PhD thesis. ***Drafted a conceptual paper and preparing submission to a top-tier IS journal.*** Developing research design and instruments for upcoming empirical studies.
+- **Outcomes:** Preparing for PhD thesis. ***Drafted a conceptual paper and preparing submission to a top-tier IS journal by 2026.*** Developing research design and instruments for upcoming empirical studies.
 
 <div style="height:1.0em"></div>
 
@@ -27,7 +27,7 @@ Research Experiences
 
 - **Activities:**  Developed a theory-driven feature engineering process framework that systematically integrates data transformation, feature extraction, and feature selection for machine learning approaches, covering both traditional ML models and deep learning workflows. The work focuses on how theoretical lenses can guide feature engineering, so that feature engineering is not only predictive but also explanatory—supporting subsequent research that builds data-driven theoretical models grounded in well-defined constructs and mechanisms. 
 
-- **Outcomes:** ***Submitted a full paper to the European Conference on Information Systems (ECIS 2026). Preparing a submission to a top-tier Information Systems journal.***
+- **Outcomes:** ***Submitted a full paper to the European Conference on Information Systems (ECIS 2026). Preparing a submission to a top-tier IS journal.***
 
 <div style="height:1.0em"></div>
 
