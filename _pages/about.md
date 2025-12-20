@@ -31,8 +31,9 @@ Research Experiences
 
 Honors and Awards
 ======
-- **Dean’s Commendation for Academic Excellence (top 5%),**  ***The University of Queensland***  27/11/2024
-- **School’s Outstanding Student Award (top 5%),**  *Zhengzhou University of Aeronautics*  09/2021
+- **Dean’s Honour Roll 2024 (top 10% graduates),** ***BEL Faculty, The University of Queensland,*** 12/2024
+- **Dean’s Commendation for Academic Excellence (top 5%),**  ***The University of Queensland,***  27/11/2024
+- **School’s Outstanding Student Award (top 5%),**  *Zhengzhou University of Aeronautics,*  09/2021
 
 Site-wide configuration
 ------
