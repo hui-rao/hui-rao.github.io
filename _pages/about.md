@@ -31,8 +31,10 @@ Research Experiences
 
 Honors and Awards
 ======
-- **Dean’s Commendation for Academic Excellence (top 5%),** ***The University of Queensland***  <div style="text-align:right;">27/11/2024</div>
-- **School’s Outstanding Student Award (top 5%),** *Zhengzhou University of Aeronautics*  <div style="text-align:right;">09/2021</div>
+- **Dean’s Commendation for Academic Excellence (top 5%)** 
+  ***The University of Queensland*** 27/11/2024
+- **School’s Outstanding Student Award (top 5%)** 
+  *Zhengzhou University of Aeronautics* 09/2021
 
 Site-wide configuration
 ------
