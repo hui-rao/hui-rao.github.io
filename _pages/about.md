@@ -9,7 +9,7 @@ redirect_from:
 
 Hui (Amy) Rao is a PhD student at the School of Computing and Information Systems, The University of Melbourne. She obtained her master’s degree from the UQ Business School, The University of Queensland. Her research interests include human–AI interactions, misinformation mitigation on social media, and social media user behaviour. She employs natural language processing (NLP), machine learning, and econometric techniques in her research to analyse structured, unstructured, and complex data. Her current work emphasizes theory-driven feature engineering in machine learning and the role of empathetic AI in human behaviour. Her papers appear in conference proceedings such as the Pacific-Asia Conference on Information Systems and Australian Conference on Information Systems.
 
-<br>
+<div style="height:0.5em"></div>
 
 Research Experiences
 ======
