@@ -13,6 +13,15 @@ Hui (Amy) Rao is a PhD student at the School of Computing and Information System
 
 Research Experiences
 ======
+
+**Exploring the “Dark Patterns” of LLM-based AI Companions and User Perceived Intimacy**
+
+- **Activities:**  As a PhD research stream, developing a four-study program to investigate how “dark patterns” may emerge in LLM-based AI companions and how they shape user outcomes, with a particular focus on user perceived intimacy. Study 1 conducts a cross-disciplinary synthesis of AI companion research and produce a conceptual paper. Subsequent studies employ experimental methods alongside qualitative and computational approaches to uncover dark-pattern mechanisms in AI companions. 
+
+- **Outcomes:** Completion of Master’s thesis (20,000 words), Preparing for PhD thesis. ***Drafted a conceptual paper and preparing submission to a top-tier IS journal.*** Developing research design and instruments for upcoming empirical studies.
+
+<div style="height:1.0em"></div>
+
 **Fake News Detection through Theory Based Feature Selection**
 
 - **Activities:**  Explored advanced natural language processing (NLP) techniques to enhance fake news detection using tweet semantic information, developed innovative methods to analyse and interpret semantic cues in tweets, and conducted evaluations to assess the effectiveness of methods in improving the accuracy. Elaboration Likelihood Model (ELM) of persuasion based feature development for the detection of fake news. 
