@@ -58,5 +58,5 @@ Honours and Awards
 
 For more info
 ------
-More info about Hui (Amy) Rao can be found in [About Me](https://academicpages.github.io/markdown/), the [Photos](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question via email](mailto:hui.rao.1@student.unimelb.edu.au) or [message me on LinkedIn](https://www.linkedin.com/in/hui-rao-9a30642b6/). 
+More info about Hui (Amy) Rao can be found in [About Me](https://academicpages.github.io/markdown/), the [Photos](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question via email](mailto:hui.rao.1@student.unimelb.edu.au) or [message her on LinkedIn](https://www.linkedin.com/in/hui-rao-9a30642b6/). 
 
